@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <link rel="stylesheet" href="style.css">
     <title>Todo List</title>
@@ -11,14 +12,17 @@
 <body>
     <div id="app">
         <h1>Todo List</h1>
+        <!-- Input and button for adding new items -->
         <div class="input-group">
             <input type="text" id="new-item" placeholder="Add new item...">
             <button id="add-btn"><i class="fas fa-plus"></i></button>
         </div>
+        <!-- Input and button for searching items -->
         <div class="input-group">
             <input type="text" id="search" placeholder="Search items...">
             <button id="search-btn"><i class="fas fa-search"></i></button>
         </div>
+        <!-- List of todo items -->
         <ul id="todo-list"></ul>
     </div>
     <script src="script.js"></script>

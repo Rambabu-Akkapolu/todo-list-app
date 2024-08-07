@@ -1,3 +1,4 @@
+/* Basic body styling */
 body {
     font-family: Arial, sans-serif;
     background: #f4f4f4;
@@ -7,6 +8,7 @@ body {
     height: 100vh;
     margin: 0;
 }
+/* Container styling */
 #app {
     background: white;
     padding: 20px;
@@ -15,9 +17,7 @@ body {
     width: 100%;
     max-width: 400px;
 }
-h1 {
-    text-align: center;
-}
+/* Input and button layout */
 .input-group {
     display: flex;
     margin-bottom: 10px;
@@ -40,6 +40,7 @@ button {
 button:hover {
     background: #0056b3;
 }
+/* Todo list styling */
 #todo-list {
     list-style: none;
     padding: 0;
@@ -56,6 +57,7 @@ button:hover {
 #todo-list li:nth-child(odd) {
     background: #f1f1f1;
 }
+/* Action buttons within todo items */
 .todo-actions {
     display: flex;
     gap: 10px;
