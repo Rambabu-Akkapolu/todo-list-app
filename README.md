@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
 </p>
 
-## 🚀 Overview
+## Overview
 
 This **ToDo List App** allows you to manage your tasks effectively. With features like adding, editing, removing, and searching todos, you can keep track of your tasks in a user-friendly interface.
 
@@ -15,22 +15,22 @@ This **ToDo List App** allows you to manage your tasks effectively. With feature
 
 | Feature         | Description                          |
 |-----------------|--------------------------------------|
-| ✏️ Add ToDo     | Easily add new tasks to your list.  |
-| 🔄 Edit ToDo    | Modify existing tasks with ease.    |
-| ❌ Remove ToDo  | Delete tasks you no longer need.    |
-| 🔍 Search ToDo  | Quickly search and filter your tasks.|
+| Add ToDo     | Easily add new tasks to your list.  |
+| Edit ToDo    | Modify existing tasks with ease.    |
+| Remove ToDo  | Delete tasks you no longer need.    |
+| Search ToDo  | Quickly search and filter your tasks.|
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **HTML** 🌐 - Structure of the web application.
-- **CSS** 🎨 - Styling for a clean and responsive UI.
-- **JavaScript (ES6)** ⚙️ - For interactive features and functionality.
+- **HTML**  - Structure of the web application.
+- **CSS**  - Styling for a clean and responsive UI.
+- **JavaScript (ES6)**  - For interactive features and functionality.
 
-## 💻 Live Demo
+##  Live Demo
 
 🔗[Check out the live demo](https://rambabu-akkapolu.github.io/todo-list-app/)
 
-## 🏗️ Project Approach
+##  Project Approach
 
 ### 1. UI Design
 - Designed a clean and intuitive interface using HTML and CSS.
@@ -47,6 +47,6 @@ This **ToDo List App** allows you to manage your tasks effectively. With feature
 - [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-⬆️ **[Back to Top](Overview)**
+⬆️ **[Back to Top]( Overview)**
 
 😊 **Thanks for reading! If you enjoyed this project, please consider giving it a ⭐!**
