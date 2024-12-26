@@ -47,6 +47,6 @@ This **ToDo List App** allows you to manage your tasks effectively. With feature
 - [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
-⬆️ **[Back to Top]( Overview)**
+⬆️ **[Back to Top](#-Overview)**
 
 😊 **Thanks for reading! If you enjoyed this project, please consider giving it a ⭐!**
